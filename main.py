@@ -87,3 +87,5 @@ FROM orderDetails;""",
 
 # STEP 9
 # Replace None with your code
+
+conn.close()
